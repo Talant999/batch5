@@ -1,0 +1,21 @@
+
+KEYBOARD SHORTCUTS
+
+Copy
+MAC -> Commans + C
+
+
+Paste
+MAC -> Command + V
+
+Select ALL -> Command + A
+
+Cut -> Command + X
+
+Revert Back -> Command + Z
+
+New file -> Command + N
+
+
+MAC -> Screenshot short cut is
+Command + shift + 4
